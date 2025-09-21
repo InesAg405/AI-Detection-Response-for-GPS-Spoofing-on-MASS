@@ -54,7 +54,7 @@ A high-level GPS threat model for MASS navigation illustrates the relationship b
 
 The following diagram shows the architecture of the **response mechanism** in our project, highlighting how the system detects and mitigates GPS spoofing attacks.  
 
-![Response Architecture]([https://github.com/InesAg405/AI-Detection-Response-for-GPS-Spoofing-on-MASS/blob/main/images/response_architecture.png](https://github.com/InesAg405/AI-Detection-Response-for-GPS-Spoofing-on-MASS/blob/main/images/gps_spoofing_response_architecture.png))
+![Response Architecture](https://github.com/InesAg405/AI-Detection-Response-for-GPS-Spoofing-on-MASS/blob/main/images/gps_spoofing_response_architecture.png)
 ---
 
 ## Project Folder Structure
