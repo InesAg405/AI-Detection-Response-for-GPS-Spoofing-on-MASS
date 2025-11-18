@@ -1,4 +1,7 @@
 # AI Detection Response for GPS Spoofing on Maritime Autonomous Surface Ships 🚢 
+This repository contains the source code and data used in the paper:
+Ines Agrebi, Navneet Popli, and Mohammad Mamun; *GASP-MASS: GPS Attack simulation,Detection, and Spoofing Protection for Maritime Autonomous Surface Ships*; *IEEE Access, 2025*.
+If you use this code or data, please cite our paper.
 
 ## Project Overview
 This project focuses on detecting GPS spoofing attacks on maritime autonomous surface ships using AI. The goal is to develop a modular simulation framework capable of generating GPS spoofing scenarios, preprocessing AIS datasets, and applying detection algorithms to identify abnormal behaviors. The framework integrates datasets, simulation, and detection in a pipeline for testing and evaluation purposes.
